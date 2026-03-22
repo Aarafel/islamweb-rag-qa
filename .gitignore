@@ -1,0 +1,16 @@
+# Environments
+env/
+venv/
+.env
+
+# Dependencies
+__pycache__/
+*.pyc
+
+# Database and Data
+chroma_db/
+data/
+
+# OS Files
+.DS_Store
+Thumbs.db
