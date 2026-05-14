@@ -6,7 +6,7 @@ A powerful **Retrieval-Augmented Generation (RAG)** system built for Natural Lan
 
 ---
 
-## 🎯 Project Achievements vs. Rubric
+##  Project Achievements vs. Rubric
 
 This project scores 100% on the NLP Project 2 rubric:
 1. **Data Collection:** Built custom scrapers (`scraper.py`, `scrape_specific.py`) using `BeautifulSoup` to extract Arabic fatwas while stripping side-panel ads and HTML garbage.
